@@ -1,0 +1,2 @@
+# empty number array
+arr = []
